@@ -20,6 +20,6 @@
 ## Status
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaedam5)](https://solved.ac/yaedam5/)
 
-[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=yaedam5&show_icons=true&theme=radical)](https://github.com/yaedam5/github-readme-stats)
+[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=radical)](https://github.com/SeungHuiHan/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan)](https://github.com/anuraghazra/github-readme-stats)
