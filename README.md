@@ -25,3 +25,7 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&layout=compact&theme=tokyonight)
 
+
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/SeungHuiHan?pet-id=1" width="1000" height="120"/>
+</a>
