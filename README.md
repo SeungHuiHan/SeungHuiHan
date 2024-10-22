@@ -21,7 +21,5 @@
 
 [![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=dracula)](https://github.com/SeungHuiHan/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaedam5)](https://solved.ac/yaedam5/)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&theme=dracul)](https://github.com/anuraghazra/github-readme-stats)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&layout=compact&theme=tokyonight)
 
