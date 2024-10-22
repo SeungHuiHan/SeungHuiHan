@@ -1,22 +1,9 @@
-## Hi there 👋
-
-<!--
-**SeungHuiHan/SeungHuiHan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+## Hi I'm SeungHui Han 👋
 
 
--->
+<!-- ![헤더](https://capsule-render.vercel.app/api?type=waving&height=295&color=gradient&text=새싹%20백엔드%20개발자%20한승희입니다&fontAlign=50&fontAlignY=38&fontSize=50) -->
 
-![헤더](https://capsule-render.vercel.app/api?type=waving&height=295&color=gradient&text=새싹%20백엔드%20개발자%20한승희입니다&fontAlign=50&fontAlignY=38&fontSize=50)
+## ⚒️ Technologies & Tools
+<img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan)](https://github.com/anuraghazra/github-readme-stats)
