@@ -18,8 +18,8 @@
 <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"> <img src="https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white"> <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white"> <img src="https://img.shields.io/badge/Zoom-2D8CFF?style=for-the-badge&logo=zoom&logoColor=white">
 
 ## Status
+
+[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=dracula)](https://github.com/SeungHuiHan/github-readme-stats) 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaedam5)](https://solved.ac/yaedam5/)
 
-[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=dracula)](https://github.com/SeungHuiHan/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&theme=dracul)](https://github.com/anuraghazra/github-readme-stats)
