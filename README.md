@@ -28,7 +28,12 @@
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaedam5)](https://solved.ac/yaedam5/)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&layout=compact&theme=tokyonight)
 
-
+<!---
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/lines/SeungHuiHan?pet-id=1" width="1000" height="120"/>
 </a>
+-->
+<a href="https://github.com/devxb/gitanimals">
+  <img src="https://render.gitanimals.org/lines/SeungHuiHan?pet-id=636767214029853068"  width="1000" height="120" />
+</a>
+  
