@@ -34,6 +34,7 @@
 </a>
 -->
 <a href="https://github.com/devxb/gitanimals">
-  <img src="https://render.gitanimals.org/lines/SeungHuiHan?pet-id=636767214029853068"  width="800" height="100" />
+  <img src="https://render.gitanimals.org/lines/SeungHuiHan?pet-id=636767214029853068"  width="600" height="120" />
 </a>
+  
   
