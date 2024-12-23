@@ -23,10 +23,10 @@
 
 ## ⚡ Status
 
-[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=dracula)](https://github.com/SeungHuiHan/github-readme-stats)
+[![Seunghui's GitHub stats](https://github-readme-stats.vercel.app/api?username=SeungHuiHan&show_icons=true&theme=catppuccin_latte)](https://github.com/SeungHuiHan/github-readme-stats)
 
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=yaedam5)](https://solved.ac/yaedam5/)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&layout=compact&theme=catppuccin_latte)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SeungHuiHan&layout=compact&theme=panda)
 
 <!---
 <a href="https://github.com/devxb/gitanimals">
