@@ -3,7 +3,7 @@
 
 <!-- ![헤더](https://capsule-render.vercel.app/api?type=waving&height=295&color=gradient&text=새싹%20백엔드%20개발자%20한승희입니다&fontAlign=50&fontAlignY=38&fontSize=50) -->
 
-## ⚒️ Technologies & Tools 
+## ⚒️ Technologies & Tools  
 <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=OpenJDK&logoColor=white"> <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white">
 <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"> <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
 <img src="https://img.shields.io/badge/Kotlin-B125EA?style=for-the-badge&logo=kotlin&logoColor=white"> 
